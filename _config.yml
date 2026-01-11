@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Q3it'
-description: 'Asegúrate de que colocas tus pies en el lugar correcto y luego, mantente firme'
+description: <p style="color:blue">'Asegúrate de que colocas tus pies en el lugar correcto y luego, mantente firme'</p>
 
 # Images
 avatar: 'avatar.jpg'
